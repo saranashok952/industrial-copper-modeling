@@ -9,8 +9,13 @@ The project aims to address challenges faced in the copper industry, including d
 # Key Features
 
 Data understanding and preprocessing techniques
+
 Exploratory Data Analysis (EDA) with visualization
+
 Machine learning modeling for regression and classification tasks
+
 Development of an interactive web application using Streamlit
+
 Modular code development for maintainability and portability
+
 Proper documentation and GitHub repository maintenance
